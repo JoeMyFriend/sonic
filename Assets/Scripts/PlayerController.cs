@@ -2,7 +2,9 @@
 using System.Collections;
 
 public class PlayerController : MonoBehaviour {
-	
+
+	//TESTANDO O GIT
+
 	// Animaçao
 	public Animator  anime;
 	
