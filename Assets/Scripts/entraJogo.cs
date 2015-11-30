@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class entraJogo : MonoBehaviour {
+public class EntraJogo : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
